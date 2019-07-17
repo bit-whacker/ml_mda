@@ -24,6 +24,6 @@ If you like to work locally on this project then,you can clone in here [download
 
 ## Contact
 
-`Muhammad Sadiq Hassan Zada`
-'github: bit-whacker'
+`Muhammad Sadiq Hassan Zada` <br/>
+`github: bit-whacker` <br/>
 `email: sadiq@khu.ac.kr`
