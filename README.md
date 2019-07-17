@@ -22,7 +22,7 @@ You can close this repository and load the included notebooks into jupyter noteb
 
 If you like to work locally on this project then,you can clone in here [download and install first](https://github.com/bit-whacker/ml_mda). 
 
-## Contact
+## Need Help
 
 `Muhammad Sadiq Hassan Zada` <br/>
 `github: bit-whacker` <br/>
