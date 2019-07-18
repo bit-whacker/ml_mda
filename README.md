@@ -9,7 +9,7 @@ The purpose of this project is to perform cleaning, preparation and transformati
 
 ## Jupyter Notebook
 
-We'll share Jupyter notes, which would consist of techniques for Medical Data Analysis. We'll keep adding notebooks to this repository in sequence starting from basic operations on data to in-depth analysis and visualization of the medical data.
+We'll share Jupyter notes, which will consist of techniques for Medical Data Analysis. We'll keep adding notebooks to this repository in sequence starting from basic operations on data to in-depth analysis and visualization of the medical data.
 
 ---
 
