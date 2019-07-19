@@ -27,3 +27,8 @@ If you like to work locally on this project then,you can clone in here [download
 `Muhammad Sadiq Hassan Zada` <br/>
 `github: bit-whacker` <br/>
 `email: sadiq@khu.ac.kr`
+
+## References
+`[dataset_1] https://www.kaggle.com/ronitf/heart-disease-uci` <br/>
+`[1] https://towardsdatascience.com/predicting-presence-of-heart-diseases-using-machine-learning-36f00f3edb2c`<br/>
+`[2] https://www.kaggle.com/tentotheminus9/what-causes-heart-disease-explaining-the-model`<br/>
