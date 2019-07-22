@@ -33,4 +33,5 @@ If you like to work locally on this project then,you can clone in here [download
 `[1] https://towardsdatascience.com/predicting-presence-of-heart-diseases-using-machine-learning-36f00f3edb2c`<br/>
 `[2] https://www.kaggle.com/tentotheminus9/what-causes-heart-disease-explaining-the-model`<br/>
 `[3] https://www.kaggle.com/sulianova/eda-cardiovascular-data`<br/>
-`[4] https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html`
+`[4] https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html`<br/>
+`[5] https://seaborn.pydata.org/index.html`
